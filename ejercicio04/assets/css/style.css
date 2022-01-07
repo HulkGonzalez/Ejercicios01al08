@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    padding: 0;
+    }
+    .main {
+    background-color: #B0CCAB;
+    padding: 60px;
+    }
+
+    .main__paragraph {
+    left: 250px;
+    position: fixed;
+    }

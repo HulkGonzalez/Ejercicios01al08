@@ -1,0 +1,129 @@
+body {
+    background-color: rgb(34, 209, 87);
+}
+
+.bandera1 {
+   background-color: white;
+   width: 700px;
+   height: 400px;
+   margin: 20px;
+   float: left;
+}
+
+.espana1 {
+    background-color: red;
+    height: 100px;
+}
+
+.espana2 {
+    background-color: gold;
+    height: 200px;
+}
+
+.espana3 {
+    background-color: red;
+    height: 100px;
+}
+
+.bandera2 {
+    background-color: white;
+    width: 700px;
+    height: 400px;
+    margin: 20px;
+    float: left;
+    position: relative;
+ }
+
+ .dinamarca1 {
+    background-color: red;
+    height: 180px;
+    width: 180px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.dinamarca2 {
+    background-color: red;
+    height: 180px;
+    width: 480px;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+.dinamarca3 {
+    background-color: red;
+    height: 180px;
+    width: 180px;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+}
+
+.dinamarca4 {
+    background-color: red;
+    height: 180px;
+    width: 480px;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
+
+.bandera3 {
+    background-color: white;
+    width: 700px;
+    height: 400px;
+    margin: 20px;
+    float: left;
+    position: relative;
+ }
+
+ .emiratos1 {
+    background-color: red;
+    height: 400px;
+    width: 135px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.emiratos2 {
+    background-color: green;
+    height: 135px;
+    width: 565px;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+.emiratos3 {
+    background-color: black ;
+    height: 135px;
+    width: 565px;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
+
+.bandera4 {
+    background-color: white;
+    width: 700px;
+    height: 400px;
+    margin: 20px;
+    float: left;
+    position: relative;
+ }
+
+ .japon {
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    bottom: 0px;
+    top: 100px;
+    left: 250px;
+    right: 0px;
+    border-radius: 50%;
+}
+

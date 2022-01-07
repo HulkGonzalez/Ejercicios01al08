@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+.navbar {
+    background-color: green;
+    text-align: left;
+    height: 170px;
+    padding: 20px 350px 0px 350px;
+ }
+
+ .texto {
+    text-align: left;
+    height: 100px;
+    padding: 20px 350px 0px 350px;
+ }
+
+
+.container {
+    padding: 200px 0px 0px 350px;
+}
+
+.box {
+    border: 3px solid black; 
+    width: 24%;
+    height: 100px;
+    padding: 30px;
+    display: inline-block;
+}
+
+.box01 {
+    margin: 5px;
+    width: 300px;
+    height: 380px;
+}
+
+.box02 {
+    margin: 5px;
+    width: 300px;
+    height: 380px;
+}
+
+.box03 {
+    margin: 5px;
+    width: 300px;
+    height: 380px;
+}
+
+.box04 {
+    margin: 5px;
+    width: 300px;
+    height: 380px;
+}
+
+.img {
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
